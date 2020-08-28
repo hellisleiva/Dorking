@@ -6,29 +6,28 @@
 * [¿Cómo usar esto en el "hacking"?](#¿Cómo-usar-esto-en-el-"hacking"?)
 * [Ejemplos de dorks](#Ejemplos-de-dorks)
 * [Dorks para inyeccion sql y xss](#Dorks-para-inyeccion-sql-y-xss)
-* [Dorks para encontrar camaras](#Dorks-para-encontrar-camaras)
+* [Dorks para encontrar cámaras](#Dorks-para-encontrar-cámaras)
 * [OSINT y DORKS](#OSINT-y-DORKS)
 * [Importancia final](#Importancia-final)
 
 
 ## ¿Qué es el dorking?
 
-El Google hacking o Dorking no es mas que un modo de buscar cosas un poco mas especializada,
-por el nombre "Google Hacking" se puede dar la imprecion de que solo se usa en google, pero eso no es correcto.
-El dorking no es mas que una busqueda avanzada en donde hacemos uso de operadores que funcionan como un filtro
-para dirigir la busqueda directamente a donde nosotros queremos, tambien usamos simbolos para buscar palabras o frases exactas.
-Esto nos servirá para buscar en casi cualquier motor de busqueda que encontremos en internet.
+El Google hacking o Dorking es un modo de buscar cosas un poco más especializada.
+Por el nombre "Google Hacking" se puede dar la impresión de que solo se usa en Google, pero eso no es correcto.
+El dorking no es más que una búsqueda avanzada en donde hacemos uso de operadores que funcionan como un filtro
+para dirigir la búsqueda directamente a donde nosotros queremos, usando símbolos para buscar palabras o frases exactas, por ejemplo.
+Esto nos servirá para buscar en casi cualquier motor de búsqueda que encontremos en Internet.
 
 ## Importancia
 
-El saber un poco de "Dorking" nos ayuda en muchos aspectos de nuestra vida, no es solo para buscar paginas vulnerables
-recordemos que el termino "Hacking" primeramente se utiliza cuando una persona domina mucho una cosa a tal grado
-que puede ver las cosas desde otros puntos de vista y asi llegar a ver o alcanzar cosas que otras personas no pueden,
-si salimos un poco de la informatica podemos usar un ejemplo.
+El saber un poco de dorking nos ayuda en muchos aspectos de nuestra vida, no es solo para buscar páginas vulnerables.
+Recordemos que el término "hacking" primeramente se utiliza cuando una persona domina una cosa a tal grado
+que puede ver las cosas desde otros puntos de vista y así llegar a ver o alcanzar objetivos que otras personas no pueden.
 
-Un mecanico que tiene años trabajando con carros y se especializa en motores, el con el tiempo ya entiende 
-mucho mejor los problemas de un motor que cualquier otro mecanico, al tener mucha mas experiencia en el tema,
-se puede decir que el es un "hacker" en mecanica por llegar a saber eso.
+Si salimos un poco de la informatica podemos ver un ejemplo: Un mecánico que tiene años trabajando con carros y se especializa en motores, el que con el tiempo ya entiende 
+mucho mejor los problemas de un motor que cualquier otro mecánico, al tener mucha más experiencia en el tema,
+se puede decir que el es un "hacker" en mecánica por llegar a saber eso.
 
 Volviendo al tema de Dorking es muy importante que todas las personas sepan un poco de esto, en este escrito se tratará de 
 explicar lo mas detalladamente posible como comenzar y si ya sabes algo de esto puedas reforzar temas basicos.
